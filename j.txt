@@ -1,0 +1,13 @@
+三个网站
+wiki
+jira
+git.clueos.cn
+机器安装----VPN---浏览  VPN密码：AIqi6666（）
+名词积累：
+1.github：GitHub 是一个面向开源及私有软件项目的托管平台，因为只支持 Git 作为唯一的版本库格式进行托管，故名 GitHub。
+2.UI；UI即User Interface（用户界面）的简称。
+3.API：是一些预先定义的函数，目的是提供应用程序与开发人员基于某软件或硬件得以访问一组例程的能力，而又无需访问源码，或理解内部工作机制的细节.
+4.XSS攻击：（跨站脚本攻击）XSS是一种经常出现在web应用中的计算机安全漏洞，它允许恶意web用户将代码植入到提供给其它用户使用的页面中。比如这些代码包括HTML代码和客户端脚本。
+5.git：分布式版本控制系统
+github账号  aiqi6666  密码aiqi666666	
+vue环境搭建：node---npm---webpack---vuecli---vue init webpack-simple 工程名字---cd---npm install---npm run dev
